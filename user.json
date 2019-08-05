@@ -1,0 +1,18 @@
+//creating an array of objects
+[
+	{
+	"firstName": "Sarah",
+        "lastName": "Baker",
+        "gender": "Female",
+        "salary": 70000,
+        "bonus": 2100
+	},
+        
+	{
+	"firstName": "Mike",
+        "lastName": "Peter",
+        "gender": "Male",
+        "salary": 45400,
+        "bonus": null
+	}
+]
